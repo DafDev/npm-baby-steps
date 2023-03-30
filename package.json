@@ -1,0 +1,22 @@
+{
+  "name": "npm-baby-steps",
+  "version": "1.0.0",
+  "description": "first npm package, it provides absolutey nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DafDev/npm-baby-steps.git"
+  },
+  "keywords": [
+    "babysteps"
+  ],
+  "author": "Afahd Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DafDev/npm-baby-steps/issues"
+  },
+  "homepage": "https://github.com/DafDev/npm-baby-steps#readme"
+}
